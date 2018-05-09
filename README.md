@@ -1,37 +1,22 @@
 # skeelasaurus.github.io
 
-//Skylla and Eden
-body {
-  background: white;
-}
-p {
-  color: rgb(255,97,71);
-  font-family: cursive;
-}
-h1 {
-  color: rgb(255,97,71);
-  font-weight: bold;
-  font-family: cursive;
-}
-h2 {
-  color: rgb(255,97,71);
-  font-weight: bold;
-  font-family: cursive;
-}
-h3 {
-  color: rgb(255,97,71);
-  font-weight: bold;
-  font-family: cursive;
-}
-h4 {
-  color: rgb(255,97,71);
-  font-weight: bold;
-  font-family: cursive;
-}
-img {
-  width: 180px;
-  border-color: lawngreen;
-  border-width: 2px;
-  border-style: solid;
-  border-radius: 5px
-}
+//Eden
+<!DOCTYPE html>
+<html>
+  <head>
+    <h1>Talia</h1>
+  </head>
+  <body>
+    <img src="Talia.PNG" alt="Talia">
+    <h4> This is Talia </h4>
+    <p> Talia is one of our main writers and she helps with the art. She is new to OGPC but she is an amateur writer and has worked with CAD programs before. </p>
+    <h5> These are a list of the things she has worked on. </h5>
+    <ul>
+      <li> Dialogue </li>
+      <li> Game Plot </li>
+      <li> Some Backgrounds </li>
+      <img src="CLASSROOM.jpg" alt="Classroom Background">
+    </ul>
+    <link rel="stylesheet" href="style.css">
+  </body>
+</html>
