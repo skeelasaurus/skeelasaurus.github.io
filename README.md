@@ -4,17 +4,19 @@ body {
   background: white;
 }
 p {
-  color: rgb(255,97,71);
-  font-family: cursive;
+  color: rgb(204, 122, 0)
+  font-family:monospace;
+  text-align: center;
 }
 h1 {
-  color: rgb(255,97,71);
+  color: rgb(255, 153, 0);
   font-weight: bold;
-  font-family: cursive;
+  font-family:monospace;
+  
 }
 h2 {
   color: rgb(255,97,71);
-  font-weight: bold;
+  font-weight:;
   font-family: cursive;
 }
 h3 {
