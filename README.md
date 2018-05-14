@@ -1,6 +1,6 @@
 # skeelasaurus.github.io
 
-//Eden
+<!-- Eden -->
 <html>
   <head>
     <h1> Tara </h1>
