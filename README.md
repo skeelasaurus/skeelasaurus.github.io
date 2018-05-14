@@ -1,6 +1,6 @@
 # skeelasaurus.github.io
 
-//Eden
+<!-- Eden -->
 <!DOCTYPE html>
 <html>
   <head>
