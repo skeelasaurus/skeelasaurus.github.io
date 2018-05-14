@@ -4,21 +4,14 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <h1>Talia</h1>
+    <h1> Skylla </h1>
   </head>
   <body>
-    <img src="Talia.PNG" alt="Talia">
-    <h4> This is Talia </h4>
-    <p> Talia is one of our main writers and she helps with the art. 
-      <br>
-      She is new to OGPC but she is an amateur writer and has worked with CAD programs before. </p>
-    <h5> These are a list of the things she has worked on. </h5>
-    <ul>
-      <li> Dialogue </li>
-      <li> Game Plot </li>
-      <li> Some Backgrounds </li>
-      <img src="CLASSROOM.jpg" alt="Classroom Background">
-    </ul>
+    <img src="Skylla.jpg" alt="Skylla">
+    <h5> This is Skylla </h5>
+    <p> Skylla is the programmer for our team. She also helped a little with the art. She is greaty. </p>
+    <br>
+    <p> Skylla does not have any experience with OGPC or Unity (the game engine we used) but she has been the programmer for her VEX robotics teams in previous years. </p>
     <link rel="stylesheet" href="style.css">
   </body>
 </html>
