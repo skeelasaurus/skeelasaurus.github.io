@@ -1,9 +1,12 @@
 # skeelasaurus.github.io
 
 body {
-  background: rgb(242, 242, 242);
+  background-color: rgb(217, 217, 217);
   padding: 20px;
-  margin: 10px;
+  margin: 20px;
+  background: url();
+  background-repeat: no-repeat;
+  background-size: auto;
 }
 p {
   color: rgb(26, 15, 0);
@@ -15,6 +18,7 @@ p {
   font-weight: 1000;
   background: ;
 }
+
 p2{
   font-size: 10px;
   color: orange;
@@ -25,6 +29,8 @@ h1 {
   font-weight: bold;
   font-family:monospace;
   text-align: center;
+  background-color:;
+  font-size: 50px
 }
 h2 {
   color: darkorange;
@@ -38,9 +44,9 @@ h3 {
   font-family: cursive;
 }
 h4 {
-  color: rgb(255,97,71);
+  color: orange;
   font-weight: bold;
-  font-family: cursive;
+  font-family: monospace;
 }
 img {
   float: left;
@@ -48,6 +54,7 @@ img {
   margin: 10px;
 }
 a {
+  font-size: 20px;
   text-align: center;
   color: darkorange;
 }
@@ -67,11 +74,9 @@ a:active {
   text-decoration: underline;
 }
 
-div.resize {
-    width: 100%;
-    height: 0%;
-    min-width: 10px;
-    min-height: 10px;
+div {
+  resize: both;
+  overflow: auto;
   }
 
 
