@@ -1,6 +1,6 @@
 # skeelasaurus.github.io
 
-//Eden
+<!-- Eden -->
 <!DOCTYPE html>
 <html>
   <head>
@@ -9,7 +9,9 @@
   <body>
     <img src="Talia.PNG" alt="Talia">
     <h4> This is Talia </h4>
-    <p> Talia is one of our main writers and she helps with the art. She is new to OGPC but she is an amateur writer and has worked with CAD programs before. </p>
+    <p> Talia is one of our main writers and she helps with the art. 
+      <br>
+      She is new to OGPC but she is an amateur writer and has worked with CAD programs before. </p>
     <h5> These are a list of the things she has worked on. </h5>
     <ul>
       <li> Dialogue </li>
