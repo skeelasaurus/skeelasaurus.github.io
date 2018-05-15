@@ -1,18 +1,16 @@
 # skeelasaurus.github.io
 <!-- Skylla -->
-
-
 <!DOCTYPE html>
 <html>
   <head>
+    
   </head>
-  <link rel="stylesheet"
-        href="style.css">
-  <h1>Eden</h1>
   <body>
+    
+    <h2> Team Members </h2>
     <div class="topnav">
       <a href="index.html">Home</a>
-      <a href="Members.html">Members</a>
+      <a class="active"  href="Members.html">Members</a>
       <a href="Contact.html">Contact</a>
       <div class="search-container">
         <form action="/action_page.php">
@@ -20,10 +18,28 @@
           <button type="submit"><i class="fa fa-search"></i></button>
         </form>
       </div>
+      </div>
+      
+      <link rel="stylesheet"
+            href="style.css">
+    
+    <div align="center">
+      
+      <br>
+      <a href="Brandon.html">Brandon</a>
+      <br>
+      <a href="Aubrey.html">Aubrey</a>
+      <br>
+      <a href="Eden.html">Eden</a>
+      <br>
+      <a href="Talia.html">Talia</a>
+      <br>
+      <a href="Skylla.html">Skylla</a>
+      <br>
+      <a href="Tara.html">Tara</a>
+      <br>
+      <a href="DeGeorge.html">DeGeorge</a>
+      <br>
     </div>
-    <img src= "Eden.PNG"
-         alt= "eden">
-    <h4>This is Eden</h4>
-    <p>I have never been in OGPC before this year but I have learned about programs like photoshop and CAD programs that make designing things for the game easier. </p>
   </body>
 </html>
